@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Bienvenido a mi perfil de GitHub  
+# ¡Hola! Bienvenido a mi perfil de GitHub  
 
 <p align="center">
     <img src="https://github.com/Toni872/Toni872/blob/main/banner.png" alt="Banner de GitHub">
