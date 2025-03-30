@@ -1,9 +1,5 @@
 # ¡Hola! Bienvenido a mi perfil de GitHub  
 
-<p align="center">
-    <img src="https://github.com/Toni872/Toni872/raw/main/banner.gif" alt="banner.gif">
-</p>
-
 ## 🚀 Sobre mí  
 👨‍💻 Desarrollador Python enfocado en backend, IA y automatización. Siempre explorando nuevas tecnologías.  
 
