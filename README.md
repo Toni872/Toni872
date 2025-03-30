@@ -1,8 +1,7 @@
 # ¡Hola! Bienvenido a mi perfil de GitHub  
 
 <p align="center">
-    <img src="https://github.com/Toni872/Toni872/raw/main/banner.png" alt="banner.gif">
-
+    ![Banner](https://github.com/Toni872/Toni872/raw/main/banner.gif)
 </p>
 
 ## 🚀 Sobre mí  
@@ -23,4 +22,4 @@
 
 ## 🌍 Conéctate conmigo  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu-perfil/)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Toni872)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Toni872)
