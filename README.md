@@ -1,7 +1,8 @@
 # ¡Hola! Bienvenido a mi perfil de GitHub  
 
 <p align="center">
-    <img src="https://github.com/Toni872/Toni872/blob/main/banner.png" alt="banner.gif">
+    <img src="https://github.com/Toni872/Toni872/raw/main/banner.png" alt="banner.gif">
+
 </p>
 
 ## 🚀 Sobre mí  
