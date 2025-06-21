@@ -1,7 +1,7 @@
 # ¡Hola! Bienvenido a mi perfil de GitHub  
 
 ## 🚀 Sobre mí  
-👨‍💻 Desarrollador Python enfocado en backend, IA y automatización. Siempre explorando nuevas tecnologías.  
+👨‍💻 Desarrollador Full Stack enfocado en Python, IA y automatización. Siempre explorando nuevas tecnologías.  
 
 ## 🛠️ Tecnologías y herramientas  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
