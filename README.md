@@ -1,3 +1,22 @@
+# 👋 ¡Hola! Soy Antonio Lloret Sánchez
+
+<div align="center">
+
+## 💻 Full Stack Developer
+
+**Especializado en TypeScript • React • NestJS • GraphQL**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-lloret-s%C3%A1nchez-080166156)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Toni872)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:antohachi@gmail.com)
+
+</div>
+
+---
+
+## 🚀 Sobre Mí
+
+Desarrollador Full Stack apasionado por crear **aplicaciones empresariales robustas y escalables**. Me especializo en construir sistemas completos end-to-end con arquitectura moderna, código limpio y mejores prácticas del sector.
 
 ```typescript
 const antonio = {
@@ -240,4 +259,3 @@ A través de mis proyectos he profundizado en:
 **Made with ❤️ by Antonio Lloret Sánchez**
 
 </div>
-
