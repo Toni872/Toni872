@@ -1,10 +1,9 @@
-# 👋 ¡Hola! Soy Antonio Lloret Sánchez
-
 <div align="center">
 
-## 💻 Full Stack Developer
+# 👋 ¡Hola! Soy Antonio Lloret Sánchez
 
-**Especializado en TypeScript • React • NestJS • GraphQL**
+## 💻 Full Stack Developer
+### Especializado en TypeScript • React • NestJS • GraphQL
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-lloret-s%C3%A1nchez-080166156)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Toni872)
@@ -18,61 +17,46 @@
 
 Desarrollador Full Stack apasionado por crear **aplicaciones empresariales robustas y escalables**. Me especializo en construir sistemas completos end-to-end con arquitectura moderna, código limpio y mejores prácticas del sector.
 
-```typescript
-const antonio = {
-  location: "España 🇪🇸",
-  currentFocus: "Full Stack Development con TypeScript",
-  learning: ["NestJS avanzado", "Arquitectura de microservicios", "ML con Python"],
-  availableFor: "Oportunidades remotas como Full Stack Developer",
-  passions: ["Clean Code", "Arquitectura escalable", "DevOps", "IA"]
-};
-```
+### 🎯 Actualmente
+
+- 🔭 Desarrollando un **Sistema ERP completo** con React, NestJS y GraphQL
+- 🌱 Aprendiendo **Arquitectura de microservicios** y **ML con Python**
+- 💼 Abierto a oportunidades como **Full Stack Developer** (remoto)
+- 🇪🇸 Ubicado en **España**
 
 ---
 
 ## 🛠️ Stack Tecnológico
 
+<div align="center">
+
 ### Frontend
-```typescript
-const frontend = {
-  frameworks: ["React 18", "Next.js 14"],
-  languages: ["TypeScript", "JavaScript (ES6+)"],
-  styling: ["Material-UI", "TailwindCSS", "CSS3"],
-  stateManagement: ["Zustand", "Apollo Client"],
-  tools: ["Vite", "React Router", "React Hook Form"]
-};
-```
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
 ### Backend
-```typescript
-const backend = {
-  frameworks: ["NestJS", "FastAPI", "Flask"],
-  languages: ["TypeScript", "Python", "Node.js"],
-  apis: ["GraphQL (Apollo)", "REST APIs"],
-  databases: ["PostgreSQL", "Redis", "Prisma ORM"],
-  auth: ["JWT", "OAuth", "bcrypt"]
-};
-```
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+### Bases de Datos
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ### DevOps & Tools
-```typescript
-const devops = {
-  containerization: ["Docker", "Docker Compose"],
-  cicd: ["GitHub Actions"],
-  versionControl: ["Git", "GitHub"],
-  testing: ["Vitest", "Jest", "E2E Testing"],
-  monitoring: ["Winston", "Socket.IO"]
-};
-```
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### Machine Learning
-```python
-ml_stack = {
-    "frameworks": ["scikit-learn", "NumPy", "Pandas"],
-    "apis": ["FastAPI"],
-    "use_cases": ["Predicción de demanda", "Optimización de precios"]
-}
-```
+</div>
 
 ---
 
@@ -80,7 +64,7 @@ ml_stack = {
 
 ### 🏢 [Sistema ERP Empresarial](https://github.com/Toni872/SISTEMAEMPRESARIAL)
 
-> Sistema integral de gestión empresarial con arquitectura full-stack moderna, IA integrada y análisis en tiempo real
+<div align="center">
 
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)](https://reactjs.org/)
@@ -88,42 +72,43 @@ ml_stack = {
 [![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)](https://graphql.org/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 
-#### ✨ Características principales:
-- 🎨 **Frontend Premium:** React 18 + TypeScript + Material-UI
-- 🔧 **Backend Robusto:** NestJS + GraphQL + REST API
-- 🗄️ **Base de Datos:** PostgreSQL con Prisma ORM (24+ tablas)
-- 🤖 **Motor de IA:** Predicción de demanda y optimización de precios
-- 🔐 **Seguridad:** JWT + RBAC con 4 niveles de roles
-- 📊 **Dashboard:** Métricas en tiempo real con WebSockets
-- 🐳 **DevOps:** Docker + GitHub Actions + CI/CD
-- 📦 **15 Módulos:** Ventas, Compras, Inventario, IA, Logística, Automatización
+</div>
 
-#### 📊 Métricas del proyecto:
+> Sistema integral de gestión empresarial con arquitectura full-stack moderna, IA integrada y análisis en tiempo real
+
+#### ✨ Características principales
+
+| Frontend | Backend | IA & Data |
+|----------|---------|-----------|
+| ⚛️ React 18 + TypeScript | 🔧 NestJS + GraphQL | 🤖 Predicción de demanda |
+| 🎨 Material-UI | 🗄️ PostgreSQL + Prisma | 📊 Optimización de precios |
+| 📊 Dashboard en tiempo real | 🔐 JWT + RBAC (4 roles) | 🐍 Python + FastAPI |
+| 30+ componentes reutilizables | 50+ endpoints API | 📈 scikit-learn + Pandas |
+
+#### 📊 Métricas del proyecto
+
 ```
-✅ +15,000 líneas de código
-✅ 50+ endpoints (GraphQL + REST)
-✅ 30+ componentes React reutilizables
-✅ 24+ tablas en base de datos
+📁 +15,000 líneas de código
+🔌 50+ endpoints (GraphQL + REST)
+⚛️ 30+ componentes React
+🗄️ 24+ tablas en base de datos
+🐳 Dockerización completa
 ✅ CI/CD automatizado
-✅ Tests + Documentación completa
+📝 Documentación completa
 ```
 
-#### 🛠️ Stack completo:
-**Frontend:** React • TypeScript • Material-UI • Apollo Client • Zustand • Vite  
-**Backend:** NestJS • GraphQL • Prisma • PostgreSQL • Redis • JWT  
-**IA:** Python • FastAPI • scikit-learn • NumPy • Pandas  
-**DevOps:** Docker • GitHub Actions • Git
+#### 🎯 Módulos implementados
 
-[🔗 Ver proyecto completo](https://github.com/Toni872/SISTEMAEMPRESARIAL)
+- 📊 **Dashboard Ejecutivo** - Métricas en tiempo real con WebSockets
+- 💰 **Ventas** - Órdenes, facturas y gestión de clientes
+- 🛒 **Compras** - Proveedores y órdenes de compra
+- 📦 **Inventario** - Control de stock y productos
+- 🤖 **Motor de IA** - Predicción y optimización
+- 👥 **Usuarios** - Sistema de roles y permisos
+- 🚚 **Logística** - Gestión de rutas y entregas
+- ⚙️ **Automatización** - Flujos RPA y bots
 
----
-
-## 💼 Otros Proyectos
-
-### 🏠 [Vilok - Marketplace de Espacios](https://github.com/Toni872)
-Plataforma completa de alquiler de espacios con:
-- **Stack:** Next.js 14 • TypeScript • PostgreSQL • Stripe
-- **Features:** Multi-rol (Host/Guest/Admin) • Reservas en tiempo real • Pagos • Mensajería
+[🔗 Ver proyecto completo →](https://github.com/Toni872/SISTEMAEMPRESARIAL)
 
 ---
 
@@ -141,62 +126,52 @@ Plataforma completa de alquiler de espacios con:
 
 ---
 
-## 🎯 Especialidades
+## 💼 Experiencia Técnica
+
+### 🎯 Especialidades
+
+- ⚛️ **Frontend:** Desarrollo de interfaces modernas y responsive con React + TypeScript
+- 🔧 **Backend:** APIs robustas con NestJS, GraphQL y arquitectura modular
+- 🗄️ **Bases de Datos:** Diseño de esquemas complejos con Prisma y PostgreSQL
+- 🐳 **DevOps:** Containerización con Docker y CI/CD con GitHub Actions
+- 🤖 **IA:** Integración de modelos de ML en aplicaciones web
+
+### 🌟 Fortalezas
 
 ```typescript
-const expertise = {
-  fullStack: {
-    frontend: "Desarrollo de interfaces modernas y responsive con React + TypeScript",
-    backend: "APIs robustas con NestJS, GraphQL y arquitectura modular",
-    database: "Diseño de esquemas complejos con Prisma y PostgreSQL",
-    devops: "Containerización con Docker y CI/CD con GitHub Actions"
-  },
-  
-  strengths: [
-    "Arquitectura de aplicaciones escalables",
-    "Clean Code y mejores prácticas",
-    "TypeScript end-to-end",
-    "GraphQL y REST APIs",
-    "Sistema de autenticación y autorización",
-    "Integración de IA en aplicaciones web",
-    "Testing automatizado",
-    "Documentación técnica"
-  ],
-  
-  softSkills: [
-    "Autodidacta",
-    "Resolución de problemas complejos",
-    "Aprendizaje rápido",
-    "Trabajo en equipo",
-    "Comunicación efectiva",
-    "Gestión de proyectos"
-  ]
-};
+const strengths = [
+  "Arquitectura de aplicaciones escalables",
+  "Clean Code y mejores prácticas",
+  "TypeScript end-to-end",
+  "GraphQL y REST APIs",
+  "Testing automatizado",
+  "Documentación técnica",
+  "Resolución de problemas complejos",
+  "Aprendizaje rápido y autodidacta"
+];
 ```
 
 ---
 
-## 🌱 Actualmente Aprendiendo
+## 🌱 Aprendiendo Actualmente
 
-- 🚀 Arquitectura de microservicios con NestJS
+- 🏗️ Arquitectura de microservicios con NestJS
 - 🤖 Machine Learning avanzado con Python
 - ☁️ Cloud deployment (AWS, GCP)
 - 📱 React Native para aplicaciones móviles
-- 🔐 Advanced security patterns
+- 🔐 Security patterns avanzados
 
 ---
 
-## 💡 Filosofía de Desarrollo
+## 🏅 Logros Destacados
 
-```typescript
-const myApproach = {
-  code: "Clean, maintainable, and well-documented",
-  architecture: "Scalable, modular, and testable",
-  learning: "Continuous improvement and staying updated",
-  collaboration: "Open to feedback and knowledge sharing",
-  quality: "Testing, linting, and best practices first"
-};
-```
+- ✅ **Sistema ERP completo** con 15 módulos funcionales
+- ✅ **Motor de IA integrado** para predicción y optimización
+- ✅ **Dashboard en tiempo real** con WebSockets
+- ✅ **Sistema de autenticación** robusto con RBAC
+- ✅ **Dockerización completa** de stack full-stack
+- ✅ **CI/CD automatizado** con GitHub Actions
+- ✅ **+10,000 palabras** de documentación técnica
 
 ---
 
@@ -204,57 +179,29 @@ const myApproach = {
 
 <div align="center">
 
-### 🤝 Estoy abierto a oportunidades como Full Stack Developer
+### 💼 Abierto a oportunidades como Full Stack Developer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-lloret-s%C3%A1nchez-080166156)
 [![Email](https://img.shields.io/badge/Email-Contactar-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:antohachi@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Seguir-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Toni872)
 
 **📧 Email:** antohachi@gmail.com  
-**💼 LinkedIn:** [www.linkedin.com/in/antonio-lloret-sánchez-080166156](https://www.linkedin.com/in/antonio-lloret-s%C3%A1nchez-080166156)  
-**💻 GitHub:** [github.com/Toni872](https://github.com/Toni872)
+**💼 LinkedIn:** [antonio-lloret-sánchez-080166156](https://www.linkedin.com/in/antonio-lloret-s%C3%A1nchez-080166156)  
+**💻 Portfolio:** [Sistema ERP](https://github.com/Toni872/SISTEMAEMPRESARIAL)
 
 </div>
 
 ---
 
-## 🎓 Aprendizajes Clave
-
-A través de mis proyectos he profundizado en:
-
-- ✅ **Arquitectura Full-Stack:** Desde el diseño de base de datos hasta el deployment
-- ✅ **GraphQL vs REST:** Cuándo usar cada uno y sus trade-offs
-- ✅ **Type Safety:** TypeScript end-to-end para reducir bugs
-- ✅ **State Management:** Comparación entre Context, Redux y Zustand
-- ✅ **Authentication:** JWT, refresh tokens, RBAC
-- ✅ **Real-time:** WebSockets con Socket.IO
-- ✅ **Containerization:** Docker para desarrollo y producción
-- ✅ **CI/CD:** Automatización de testing y deployment
-- ✅ **IA Integration:** Integrar modelos de ML en aplicaciones web
-
----
-
-## 🏅 Logros
-
-- 🏗️ **Sistema ERP completo** con 15 módulos funcionales
-- 🤖 **Integración de IA** para predicción y optimización
-- 📊 **Dashboard en tiempo real** con WebSockets
-- 🔐 **Sistema de autenticación** robusto con roles
-- 🐳 **Dockerización completa** de stack full-stack
-- 📝 **Documentación técnica** de +10,000 palabras
-- ⚙️ **CI/CD automatizado** con GitHub Actions
-
----
-
 <div align="center">
 
-### 💬 "Código limpio, arquitectura escalable, soluciones innovadoras"
-
----
+### 💬 _"Código limpio, arquitectura escalable, soluciones innovadoras"_
 
 ![Visitor Count](https://profile-counter.glitch.me/Toni872/count.svg)
 
 ⭐ **Si te gustan mis proyectos, ¡dale una estrella!** ⭐
+
+---
 
 **Made with ❤️ by Antonio Lloret Sánchez**
 
