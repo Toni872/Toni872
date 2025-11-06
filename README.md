@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 ¡Hola! Soy Antonio Lloret Sánchez
+# 👋 ¡Hola! Soy Toni Lloret
 
 ## 💻 Full Stack Developer
 ### Especializado en TypeScript • React • NestJS • GraphQL
