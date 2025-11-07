@@ -82,7 +82,7 @@ const antonio = {
 
 **Open to Full Stack Developer opportunities (Remote)**
 
-📧 antohachi@gmail.com  
+📧 <antohachi@gmail.com>  
 💼 [LinkedIn](https://www.linkedin.com/in/antonio-lloret-s%C3%A1nchez-080166156)  
 🌐 [ERP System Demo](https://frontend-2zj6xn52l-toni872s-projects.vercel.app)
 
