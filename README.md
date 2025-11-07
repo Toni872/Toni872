@@ -17,7 +17,6 @@ Desarrollador Full Stack apasionado por crear **aplicaciones empresariales robus
 - 🔭 Desarrollando un **Sistema ERP completo** con React, NestJS y GraphQL
 - 🌱 Aprendiendo **Arquitectura de microservicios** y **ML con Python**
 - 💼 Abierto a oportunidades como **Full Stack Developer** (remoto)
-- 🇪🇸 Ubicado en **España**
 
 ---
 
