@@ -1,4 +1,4 @@
-### Hi, I'm Antonio Lloret Sánchez 👋
+### Hi, I'm Toni Lloret 👋
 
 Full Stack Developer from Spain specializing in TypeScript, React, and NestJS.
 
