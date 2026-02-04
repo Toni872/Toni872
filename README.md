@@ -42,17 +42,7 @@ I build systems that scale. No fluff, just robust architecture.
 
 <br/>
 
-### 📊 **Performance Metrics**
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Toni872&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true" width="48%" align="left" alt="Antonio's Github Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Toni872&layout=compact&theme=transparent&hide_border=true&langs_count=6" width="48%" align="right" alt="Top Langs" />
-</div>
-<br clear="both"/>
-
-<br/>
-
-### � **Recent Architecture Highlights**
+### 🚀 **Recent Architecture Highlights**
 
 | Project | Tech Stack | Impact |
 | :--- | :--- | :--- |
