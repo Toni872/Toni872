@@ -1,57 +1,70 @@
-# Hi there, I'm Antonio Lloret 👋
-### AI Automation Architect & Founder @ [Script9](https://script-9.com)
-
-I build **autonomous infrastructures** for B2B enterprises, replacing manual workflows with intelligent agents and sovereign cloud architectures.
-
----
-
-### 🚀 **Current Focus: Script9**
-Building the "Tier 1" automation consultancy.  
-**Tech Stack:** `Next.js 14` `TypeScript` `N8N (Self-Hosted)` `Docker` `Google Gemini 2.5` `Python`
-
-> *We don't just "connect apps". We engineer latency-optimized, fault-tolerant business logic.*
-
----
-
-### 🛠 **Tech Stack**
-
-**Frontend & Core:**
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-**Automation & AI:**
-![N8N](https://img.shields.io/badge/n8n-FF6584?style=for-the-badge&logo=n8n&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
-
----
-
-### 📊 **Github Stats**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Toni872&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Antonio's Github Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Toni872&layout=compact&theme=radical&hide_border=true" alt="Top Langs" height="180"/>
+
+# Antonio Lloret Sánchez
+
+<h3 align="center">
+  <samp>&gt; AI Automation Architect @ <a href="https://script-9.com">Script9</a></samp>
+</h3>
+
+<p align="center">
+  Designing <b>autonomous infrastructures</b> for Enterprise clients.<br>
+  Specialized in <b>Self-Hosted AI Agents</b>, <b>High-Concurrency Systems</b>, and <b>Sovereign Cloud Deployments</b>.
+</p>
+
+<br/>
+
+<!-- Social Badges Minimal -->
+<a href="https://linkedin.com/in/tony-lloret-080166156" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>
+<a href="mailto:contact@script-9.com">
+  <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+</a>
+<a href="https://script-9.com" target="_blank">
+  <img src="https://img.shields.io/badge/Website-Script9-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website Badge"/>
+</a>
+
+<br/><br/>
+
 </div>
 
 ---
 
-### 💼 **Professional Highlights**
-- **AI SDR Infrastructure:** Engineered a lead qualification agent processing leads in <3s using Gemini Flash + N8N.
-- **Sovereign Cloud:** Deployed self-hosted automation clusters on Hetzner VPS to ensure data privacy and zero ratelimits.
-- **Enterprise Content Engine:** Designed V10 LinkedIn generator for high-level "CTO-to-CTO" technical authority.
+### ⚡ **Engineering Stack**
 
----
+I build systems that scale. No fluff, just robust architecture.
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/tony-lloret-080166156">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,nextjs,python,docker,linux,git,github,vscode,aws,gcp&theme=dark&perline=10" />
   </a>
-  <a href="mailto:contact@script-9.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://script-9.com">
-    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
-  </a>
+</div>
+
+<br/>
+
+### 📊 **Performance Metrics**
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Toni872&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true" width="48%" align="left" alt="Antonio's Github Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Toni872&layout=compact&theme=transparent&hide_border=true&langs_count=6" width="48%" align="right" alt="Top Langs" />
+</div>
+<br clear="both"/>
+
+<br/>
+
+### � **Recent Architecture Highlights**
+
+| Project | Tech Stack | Impact |
+| :--- | :--- | :--- |
+| **AI SDR Infrastructure** | `Gemini 2.5` `N8N` `Webhooks` | Autonomous lead qualification in <3000ms. |
+| **Sovereign Cloud Cluster** | `Docker` `Hetzner VPS` `Linux` | Zero-latency, privacy-first automation environment. |
+| **Enterprise Content Engine** | `LinkedIn API` `Slack Block Kit` | Automated "CTO-Grade" technical authority posting. |
+
+<br/>
+
+<div align="center">
+  <samp>
+    "We don't just connect apps. We engineer <b>latency-optimized</b>, <b>fault-tolerant</b> business logic."
+  </samp>
 </div>
