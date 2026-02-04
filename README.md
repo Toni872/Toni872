@@ -1,41 +1,57 @@
-### Hi, I'm Toni Lloret 👋
+# Hi there, I'm Antonio Lloret 👋
+### AI Automation Architect & Founder @ [Script9](https://script-9.com)
 
-Full Stack Developer from Spain specializing in TypeScript, React, and NestJS.
-
----
-
-### Featured Project
-
-**[Enterprise ERP System](https://github.com/Toni872/SISTEMAEMPRESARIAL)** - Full-stack business management system with AI integration
-
-- 28 modules | 15,000+ lines of code | 50+ API endpoints
-- Stack: TypeScript • React • NestJS • GraphQL • PostgreSQL • Docker
-- [Live Demo](https://frontend-2zj6xn52l-toni872s-projects.vercel.app)
+I build **autonomous infrastructures** for B2B enterprises, replacing manual workflows with intelligent agents and sovereign cloud architectures.
 
 ---
 
-### Tech Stack
+### 🚀 **Current Focus: Script9**
+Building the "Tier 1" automation consultancy.  
+**Tech Stack:** `Next.js 14` `TypeScript` `N8N (Self-Hosted)` `Docker` `Google Gemini 2.5` `Python`
 
-**Frontend:** React • TypeScript • Next.js • Material-UI  
-**Backend:** NestJS • Node.js • GraphQL • Python  
-**Database:** PostgreSQL • Prisma • Redis  
-**DevOps:** Docker • GitHub Actions
+> *We don't just "connect apps". We engineer latency-optimized, fault-tolerant business logic.*
 
 ---
 
-### GitHub Stats
+### 🛠 **Tech Stack**
+
+**Frontend & Core:**
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+**Automation & AI:**
+![N8N](https://img.shields.io/badge/n8n-FF6584?style=for-the-badge&logo=n8n&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
+
+---
+
+### 📊 **Github Stats**
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Toni872&show_icons=true&theme=dark&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Toni872&layout=compact&theme=dark&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Toni872&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Antonio's Github Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Toni872&layout=compact&theme=radical&hide_border=true" alt="Top Langs" height="180"/>
 </div>
 
 ---
 
-### Contact
+### 💼 **Professional Highlights**
+- **AI SDR Infrastructure:** Engineered a lead qualification agent processing leads in <3s using Gemini Flash + N8N.
+- **Sovereign Cloud:** Deployed self-hosted automation clusters on Hetzner VPS to ensure data privacy and zero ratelimits.
+- **Enterprise Content Engine:** Designed V10 LinkedIn generator for high-level "CTO-to-CTO" technical authority.
 
-📧 <antohachi@gmail.com>  
-💼 [LinkedIn](https://www.linkedin.com/in/antonio-lloret-s%C3%A1nchez-080166156)  
-🌐 [Portfolio](https://github.com/Toni872/SISTEMAEMPRESARIAL)
+---
 
-**Open to remote Full Stack Developer opportunities**
+<div align="center">
+  <a href="https://www.linkedin.com/in/tony-lloret-080166156">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:contact@script-9.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://script-9.com">
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
+  </a>
+</div>
